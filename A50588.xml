@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Memorable song on the unhappy hunting in Chevy-Chase, betweene Earle Piercy of England and Earle Dowglas of Scotland to the tune of Flying fame.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50588</idno>
+            <idno type="STC">Wing M1678_VARIANT</idno>
+            <idno type="STC">ESTC R32073</idno>
+            <idno type="EEBO-CITATION">12318843</idno>
+            <idno type="OCLC">ocm 12318843</idno>
+            <idno type="VID">59431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1016:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Memorable song on the unhappy hunting in Chevy-Chase, betweene Earle Piercy of England and Earle Dowglas of Scotland to the tune of Flying fame.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[167-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Printed in 5 columns.</note>
+                  <note>Imperfect: pages torn.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:59431:1"/>
+            <head>A memorable Song, on the unhappy Hunting in <hi>Chevy-Chaſe,</hi> betweene Earle <hi>Piercy</hi> of <hi>England,</hi> and Earle <hi>Dowglas</hi> of <hi>Scotland.</hi>
+            </head>
+            <opener>To the Tune of, <hi>Flying Fame</hi>
+            </opener>
+            <lg>
+               <l>GOd proſper long our Noble King,</l>
+               <l>our lives and ſafeties all,</l>
+               <l>A wofull Hunting once there did</l>
+               <l>in <hi>Chevy Chaſe</hi> befall:</l>
+               <l>To drive the Déere with hound and horne</l>
+               <l>Earle <hi>Piercy</hi> tooke his way,</l>
+               <l>The Child may rue that is unborne,</l>
+               <l>the Hunting of that day.</l>
+            </lg>
+            <lg>
+               <l>The ſtout Earle of <hi>Northumberland,</hi>
+               </l>
+               <l>a vow to God hid make,</l>
+               <l>His pleaſure in the <hi>Scottiſh</hi> VVoods,</l>
+               <l>thrée Summers days to take,</l>
+               <l>The chiefeſt Harts in <hi>Chevy Chaſe,</hi>
+               </l>
+               <l>to kill and beare away:</l>
+               <l>Theſe tydings to Earle <hi>Dowglas</hi> came,</l>
+               <l>in <hi>Scotland</hi> where he lay,</l>
+            </lg>
+            <lg>
+               <l>VVho ſent Earle <hi>Piercy</hi> preſent word,</l>
+               <l>he would prevent his ſport,</l>
+               <l>The <hi>Engliſh</hi> Earle not fearing this,</l>
+               <l>did to the VVoods reſort,</l>
+               <l>VVith fiftéene hundred Bow-men bold</l>
+               <l>all choſen men of might,</l>
+               <l>VVho knew full well in time of warre,</l>
+               <l>to aime there ſhafts aright.</l>
+            </lg>
+            <lg>
+               <l>The gallant Grayhounds ſwiftly ran,</l>
+               <l>to chaſe the Fallow Déere,</l>
+               <l>On Munday they began to hunt,</l>
+               <l>when day-light did appeare,</l>
+               <l>And long before high noone they had,</l>
+               <l>an hundred fat Bucks ſlaine.</l>
+               <l>Then having din'd the Drovers went,</l>
+               <l>to rowſe them up againe.</l>
+            </lg>
+            <lg>
+               <l>The Bow-men muſtred on the hills,</l>
+               <l>well able to endure,</l>
+               <l>Their back-ſides all with ſpeciall care</l>
+               <l>that day was guarded ſure.</l>
+               <l>The Hounds ran ſwiftly through y<hi rend="sup">e</hi> woods</l>
+               <l>the nimble Déere to take,</l>
+               <l>That with their cryes the Hits and Dales</l>
+               <l>an Eccho ſhrill did maky.</l>
+            </lg>
+            <lg>
+               <l>Lord <hi>Piercy</hi> to the Quarry went,</l>
+               <l>to view the tender Déere,</l>
+               <l>Quoth he, Earle <hi>Dowglas</hi> promiſed,</l>
+               <l>this day to méet me here;</l>
+               <l>But if I thought he would not come,</l>
+               <l>no longer would I ſtay:</l>
+               <l>VVith that a brave young Gentleman,</l>
+               <l>thus to the Earle did ſay,</l>
+            </lg>
+            <lg>
+               <l>Loe, yonder doth Earle <hi>Dowglas</hi> come,</l>
+               <l>his men in Armour bright,</l>
+               <l>Full fiftéene hundred <hi>Scottiſh</hi> Speares,</l>
+               <l>all marching in our ſight,</l>
+               <l>All pleaſant men of <hi>Tevidale,</hi>
+               </l>
+               <l>faſt by the River <hi>Tweed</hi>:</l>
+               <l>Then ceaſe your ſport Earle <hi>Piercy</hi> ſaid,</l>
+               <l>and take your Bowes with ſpéed.</l>
+            </lg>
+            <lg>
+               <l>And now with me my Countreymen</l>
+               <l>your courage foorth advance;</l>
+               <l>For never was there Champion yet,</l>
+               <l>in <hi>Scotland</hi> or in <hi>France,</hi>
+               </l>
+               <l>That ever did on horſe-back come,</l>
+               <l>and if my hap it were,</l>
+               <l>I durſt encounter man for man,</l>
+               <l>with him to breake a Speare,</l>
+            </lg>
+            <lg>
+               <l>Earle <hi>Dowglas</hi> on a milke white Stéed,</l>
+               <l>moſt like a Baron bold,</l>
+               <l>Rode foremoſt of the companie,</l>
+               <l>whose Armour ſhone like Gold:</l>
+               <l>Shew me ſaid he whoſe men you be,</l>
+               <l>that hunt ſo boldly here,</l>
+               <l>That without my conſent doe chaſe,</l>
+               <l>and kill my Fallow Déere,</l>
+            </lg>
+            <lg>
+               <l>The man that firſt did anſwer make,</l>
+               <l>was Noble <hi>Piercy</hi> he,</l>
+               <l>VVho ſaid we liſt not to declare,</l>
+               <l>nor tell whoſe men we be,</l>
+               <l>Yet we will ſpend our deareſt blood,</l>
+               <l>thy chiefeſt Harts to ſtay:</l>
+               <l>Then <hi>Dowglas</hi> ſwore a ſolemne Oath,</l>
+               <l>and thus inrage did ſay,</l>
+            </lg>
+            <lg>
+               <l>Ere thus I will out braved be,</l>
+               <l>one of us two ſhall die,</l>
+               <l>I know thée well an Earle thou art,</l>
+               <l>Lord <hi>Piercy</hi> ſo am I:</l>
+               <l>But truſt me, <hi>Piercy,</hi> pitty twere,</l>
+               <l>and great offence to kill:</l>
+               <l>Any of theſe our harmeleſſe men,</l>
+               <l>for they have done no ill:</l>
+            </lg>
+            <l>Let thou and I the Battell try,</l>
+            <l>and ſet our men aſide;</l>
+            <l>Accurſt be he Lord <hi>Piercy</hi> ſaid,</l>
+            <l>by whome it is deny'd.</l>
+            <l>Then ſtept a gallant Squire foorth,</l>
+            <l>
+               <hi>Witherington</hi> was his name,</l>
+            <l>VVho ſaid, he would not have it told,</l>
+            <l>to <hi>Henry</hi> our King for ſhame.</l>
+            <lg>
+               <l>That ere my Captaine fought one foot,</l>
+               <l>and I ſtood looking on;</l>
+               <l>You two be Earles, quoth <hi>Witherington,</hi>
+               </l>
+               <l>and I a Squire alone,</l>
+               <l>Ile doe the beſt that doe I may,</l>
+               <l>while I have power to ſtand,</l>
+               <l>VVhile I have power to wield my ſword,</l>
+               <l>Ile fight with heart and hand,</l>
+            </lg>
+            <lg>
+               <l>Our English Archers bent there Bowes</l>
+               <l>there hearts ware good and true,</l>
+               <l>At the firſt flight of Arrowes ſent,</l>
+               <l>full foureſcore <hi>Scots</hi> they ſlew.</l>
+               <l>To drive the Déere with hound and horns</l>
+               <l>Dowglas <hi>bad on the bent.</hi>
+               </l>
+               <l>A Captaine mov'd with mickle pride</l>
+               <l>the Speares to ſhivers went.</l>
+            </lg>
+            <lg>
+               <l>They cloſ'd full faſt on every ſide,</l>
+               <l>no ſlackneſſe there was found,</l>
+               <l>And many a gallant Gentleman,</l>
+               <l>lay gaſping on the ground:</l>
+               <l>O Chriſt it were a griefe to ſée,</l>
+               <l>and likewiſe for to heare,</l>
+               <l>The cryes of men lying in there gore,</l>
+               <l>and ſcattered here and there.</l>
+            </lg>
+            <lg>
+               <l>At laſt the two ſtout Earles did méet,</l>
+               <l>like Captaines of great might,</l>
+               <l>Like Lyons mov'd they laid on load</l>
+               <l>and made a cruell fight:</l>
+               <l>They fought untill they both did ſweat,</l>
+               <l>with ſwords of tempered ſtéele,</l>
+               <l>Vntill the blood like drops of raine,</l>
+               <l>they trickling downe did féele.</l>
+            </lg>
+            <lg>
+               <l>Yield thée Lord <hi>Piercy, Dowglas</hi> ſaid,</l>
+               <l>in faith I will thée bring,</l>
+               <l>VVhere thou ſhalt high advanced be:</l>
+               <l>by <hi>Iames</hi> our <hi>Scottiſh</hi> King;</l>
+               <l>Thy ranſome will I fréely give.</l>
+               <l>and this report of thée,</l>
+               <l>Thou art the moſt couragious Knight,</l>
+               <l>as ever I did ſée.</l>
+            </lg>
+            <lg>
+               <l>No <hi>Dowglas,</hi> quoth Earle <hi>Piercy</hi> then,</l>
+               <l>thy proffers I doe ſcorne,</l>
+               <l>I will not yield to any <hi>Scot,</hi>
+               </l>
+               <l>that ever yet was borne.</l>
+               <l>VVith that there came an arrow kéene,</l>
+               <l>out of an English Bow,</l>
+               <l>And ſtruck Earle <hi>Dowglas</hi> to the heart,</l>
+               <l>a déepe and deadly blow:</l>
+            </lg>
+            <lg>
+               <l>VVho never ſpake more words than theſe</l>
+               <l>Fight on my merry men all.</l>
+               <l>For why my life is at an end,</l>
+               <l>Earle <hi>Piercy</hi> ſees me fall:</l>
+               <l>Then leaving life, Earle <hi>Piercy</hi> tooke,</l>
+               <l>the dead man by the hand,</l>
+               <l>And ſaid, Earle <hi>Dowglas</hi> for thy life,</l>
+               <l>would I had loſt my Land.</l>
+            </lg>
+            <lg>
+               <l>O Chriſt, my very heart doth bleed,</l>
+               <l>with ſorrow <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſake.</l>
+               <l>For ſure <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>mischa<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>A Knigh<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>which <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>VVho <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>upon the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <div type="part">
+               <head>The Second part,</head>
+               <opener>to the ſame tune.</opener>
+               <lg>
+                  <l>SIr <hi>Hugh Montgomery</hi> was he cal'd</l>
+                  <l>who with a Speare full bright,</l>
+                  <l>VVell mounted on a gallant Steed,</l>
+                  <l>ran fiercely through the fight:</l>
+                  <l>And paſt the Engliſh Archers all,</l>
+                  <l>without all dread or feare,</l>
+                  <l>And through Earle <hi>Piercies</hi> body then,</l>
+                  <l>he thruſt his hatefull Speare,</l>
+               </lg>
+               <lg>
+                  <l>VVith ſuch a vehement force and might,</l>
+                  <l>his body he did gore,</l>
+                  <l>The ſtaff ran through the other ſide</l>
+                  <l>a large Cloth yard or more:</l>
+                  <l>Thus did both theſe ſtout Nobles dye,</l>
+                  <l>whoſe courage none could ſtaine:</l>
+                  <l>An English Archer then perceiv'd</l>
+                  <l>the Noble Earle was ſlaine.</l>
+               </lg>
+               <lg>
+                  <l>He had a good Bow in his hand,</l>
+                  <l>made of a truſty Tree:</l>
+                  <l>An Arrow of a Cloth-yard long,</l>
+                  <l>unto the head drew he,</l>
+                  <l>Againſt Sir <hi>Hugh Montgomery,</hi>
+                  </l>
+                  <l>ſo right his ſhaft he ſet,</l>
+                  <l>The Gray-gooſe wing that was thereon</l>
+                  <l>in his heart blood was wet</l>
+               </lg>
+               <lg>
+                  <l>The fight did laſt from breake of day,</l>
+                  <l>till ſetting of the Sun.</l>
+                  <l>For when they wrung the evening Bell</l>
+                  <l>the Battle ſcarce was done:</l>
+                  <l>VVith ſtout Earle <hi>Piercy</hi> there was ſlaine</l>
+                  <l>Sir <hi>John</hi> of <hi>Ogerton,</hi>
+                  </l>
+                  <l>Sir <hi>Robert Rateliffe</hi> and ſir <hi>Iohn,</hi>
+                  </l>
+                  <l>Sir <hi>Iames</hi> that bold Baron.</l>
+               </lg>
+               <lg>
+                  <l>And with Sir <hi>George</hi> and good ſir <hi>Iames.</hi>
+                  </l>
+                  <l>both Knights of good account,</l>
+                  <l>Good ſir <hi>Ralph Rebby</hi> there was ſlaine'</l>
+                  <l>whoſe proweſſe did ſurmount:</l>
+                  <l>For <hi>Witherington</hi> needs muſt I waile,</l>
+                  <l>as one in dolefull dumps,</l>
+                  <l>For when his Leggs were ſmitten off</l>
+                  <l>he fought upon his ſtumps.</l>
+               </lg>
+               <lg>
+                  <l>And with Earle <hi>Dowglas</hi> there was ſlaine</l>
+                  <l>Sir <hi>Hugh Montgomery,</hi>
+                  </l>
+                  <l>Sir <hi>Charles Morrell</hi> that from the field,</l>
+                  <l>one foot would never fly,</l>
+                  <l>Sir <hi>Charles Morrell</hi> of <hi>Ratcliffe</hi> too;</l>
+                  <l>his Siſters Sonne was he,</l>
+                  <l>Sir <hi>David Lamb</hi> ſo well eſteem'd,</l>
+                  <l>but ſav'd he could not be.</l>
+               </lg>
+               <lg>
+                  <l>And the Lord <hi>Markewel</hi> in like caſe,</l>
+                  <l>did with Earle <hi>Dowglas</hi> die,</l>
+                  <l>Of twenty hundred <hi>Scotiſh</hi> Speares,</l>
+                  <l>ſcarce fifty five did flie:</l>
+                  <l>Of fiftéene hundred <hi>Engliſh-men,</hi>
+                  </l>
+                  <l>went home but fiifty thrée,</l>
+                  <l>The reſt were ſlaine in <hi>Chevy-Chaſe,</hi>
+                  </l>
+                  <l>under the Gréene-wood Trée.</l>
+               </lg>
+               <lg>
+                  <l>Next day did many VVidowes come,</l>
+                  <l>there husbands to bewaile</l>
+                  <l>They waſht their wounds in briniſh teares</l>
+                  <l>but all would not prevaile,</l>
+                  <l>There bodies bath'd in purple blood,</l>
+                  <l>they bore with them away,</l>
+                  <l>They kiſt them dead a thouſand times,</l>
+                  <l>when they were clad in clay.</l>
+               </lg>
+               <lg>
+                  <l>This newes was bronght to <hi>Edenburg,</hi>
+                  </l>
+                  <l>where <hi>Scotlands</hi> King did reigne,</l>
+                  <l>That brave Earle <hi>Dowglas</hi> ſuddently,</l>
+                  <l>was with an Arrow ſlaine:</l>
+                  <l>O heavy news King <hi>Iames</hi> did ſay,</l>
+                  <l>
+                     <hi>Scotland</hi> can witneſſe be,</l>
+                  <l>I have not any Captanie more,</l>
+                  <l>of ſuch account as he.</l>
+               </lg>
+               <lg>
+                  <l>Like tydings to King <hi>Henery</hi> came,</l>
+                  <l>within a ſhort a ſpace,</l>
+                  <l>That <hi>Piercy</hi> of <hi>Northumberland,</hi>
+                  </l>
+                  <l>was ſlaine in <hi>Chevy-Chaſe,</hi>
+                  </l>
+                  <l>Now God be with him ſaid our King.</l>
+                  <l>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th twill no better be,</l>
+                  <l>I truſt I have within my Realme,</l>
+                  <l>fiive hundred as good as he,</l>
+               </lg>
+               <lg>
+                  <l>Yet ſhall not <hi>Scots</hi> nor <hi>Scotland</hi> ſay,</l>
+                  <l>but I will vengance take,</l>
+                  <l>And be revenged one them all,</l>
+                  <l>for brave Earle <hi>Piercies</hi> ſake,</l>
+                  <l>This vow the King did well performe,</l>
+                  <l>after at <hi>Humble Downe</hi>
+                  </l>
+                  <l>In one day fifty Knights were ſlaine</l>
+                  <l>with Lords of high renowne.</l>
+               </lg>
+               <lg>
+                  <l>And of the reſt of ſmall account,</l>
+                  <l>did many hundred die,</l>
+                  <l>Thus ended the hunting in <hi>Chevy Chaſe</hi>
+                  </l>
+                  <l>made by the Lord <hi>Piercy,</hi>
+                  </l>
+                  <l>God ſave the King and bleſſe the Land,</l>
+                  <l>with plentie Ioy and peace,</l>
+                  <l>And grant hencefoorth that ſowle debate,</l>
+                  <l>'twixt Noble-men may ceaſe.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for J. Wright in the old-Bayly,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
